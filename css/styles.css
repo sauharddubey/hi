@@ -47,7 +47,8 @@ margin-bottom: 5px;
 .title{
   margin: auto;
   position: absolute;
-  top: 50%;
+  top: 25%;
+  left: 45%
 }
 
 .calculator{
