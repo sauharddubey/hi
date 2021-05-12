@@ -44,7 +44,9 @@ position: relative;
 margin-bottom: 5px;
 
 }
-.title{margin: 20%;
+.title{
+  position: relative;
+  margin-top: 20%;
 padding-top: 5%;}
 
 .calculator{
