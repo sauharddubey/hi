@@ -45,9 +45,10 @@ margin-bottom: 5px;
 
 }
 .title{
-  position: relative;
-  margin-top: 20%;
-padding-top: 5%;}
+  margin: auto;
+  position: absolute;
+  top: 50%;
+}
 
 .calculator{
   position: absolute;
@@ -59,7 +60,8 @@ padding-top: 5%;}
 .coding
 {
   position: absolute;
-left: 15%;
+
+  left: 15%;
 bottom: 10%;
 }
 
